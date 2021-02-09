@@ -9,7 +9,7 @@
 
 @section('content')
   <p>本文</p>
-  <p>aaaaaaaaaaaa</p>
+  <p>aaaaaaaaaaaaa</p>
   @component('components.message')
     @slot('msg_title')
     CAUTION!
